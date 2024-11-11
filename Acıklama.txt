@@ -1,0 +1,2 @@
+C# form uygulaması üzerinden yapıldığı için görünüm kısmını ekleyemedim,
+Tutar bölümünde 2 butonun eksikliği var.
